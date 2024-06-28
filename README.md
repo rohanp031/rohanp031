@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanp031
 - 👀 I’m interested in cyber security and management
-- 🌱 I’m currently pursuing Btech CSE
+- 🌱 I’m currently pursuing B.E. CSE
 - 💞️ I’m looking to collaborate on ... innovative projects
 
 <!---
