@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rohanp031
-- 👀 I’m interested in cyber security and management
-- 🌱 I’m currently pursuing B.E. CSE
+- 👋 Hi, I’m Rohan
+- 🌱Tech enthusiast and Currently diving deep into Cyber Security, Network Security, and mastering Data Structures and Algorithms in Java. Skilled in marketing and finance management. 
+Passionate about crafting digital solutions that blend creativity with functionality. 
 - 💞️ I’m looking to collaborate on ... innovative projects
 
 <!---
