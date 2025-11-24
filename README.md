@@ -66,11 +66,6 @@ Processes mobile-captured OMR sheets, corrects distortions, and scores against p
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanp031&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanp031&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanp031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
