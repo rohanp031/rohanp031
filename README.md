@@ -1,7 +1,7 @@
 # Hi there, I'm Rohan Poddar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Blockchain+%26+IoT+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Cybersecurity+Enthusiast;Blockchain+%26+IoT+Explorer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -85,8 +85,7 @@ Processes mobile-captured OMR sheets, corrects distortions, and scores against p
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanp031)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanp031)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-poddar-0b3787273/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poddarrohan31@gmail.com)
 
 </div>
