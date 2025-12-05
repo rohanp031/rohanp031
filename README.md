@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science Engineering student specializing in **IoT, Cybersecurity, and Blockchain Technology** at Bangalore Institute of Technology. I'm passionate about building intelligent systems and solving real-world problems through code.
+I'm a Computer Science Engineering student specializing in **Cybersecurity** at Bangalore Institute of Technology. I'm passionate about building intelligent systems and solving real-world problems through code.
 
 - 🔭 Currently working on **Deep Learning & Computer Vision** projects
 - 🌱 Learning **PyTorch, React Native**, and **Cloud Infrastructure**
