@@ -63,12 +63,6 @@ Processes mobile-captured OMR sheets, corrects distortions, and scores against p
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV5ZDJpNWZ5OHRzY3B3OGw4MnBtYXNyNmRmeWkzZWIwN3l1aGM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Project GIF"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanp031&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🎓 Certifications
 
 - **Oracle Cloud Infrastructure 2025 Certified Networking Professional**
