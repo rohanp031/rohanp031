@@ -72,8 +72,8 @@ Developed a productivity-focused Chrome extension using Manifest V3, JavaScript,
   - Secure networking implementation and troubleshooting
 
 - **Artificial Intelligence Primer – Infosys Springboard**
-  -Covered AI fundamentals and machine learning concepts
-  -Practical exposure to AI applications and data-driven problem solving
+  - Covered AI fundamentals and machine learning concepts
+  - Practical exposure to AI applications and data-driven problem solving
 
 ## 🤝 Connect with Me
 
