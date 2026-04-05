@@ -54,10 +54,11 @@ Built a full-stack digit recognition application with **three CNN models** (LeNe
 
 **Tech:** PyTorch | Flask | CNN | Deep Learning
 
-### 📝 [Automated OMR System](https://github.com/rohanp031/automated-omr-system)
-Processes mobile-captured OMR sheets, corrects distortions, and scores against predefined answer keys. Provides subject-wise and total scores via web interface, reducing evaluation time from **days to minutes**.
+### ⏳ [Block Me: Commit to Focus](https://github.com/rohanp031/blockme-v1)
 
-**Tech:** Python | Computer Vision | OpenCV | Web Development
+Developed a productivity-focused Chrome extension using Manifest V3, JavaScript, HTML, and CSS to block distracting websites, enforce focus sessions, and improve digital discipline. Integrated Pomodoro timer logic, Chrome APIs, gamification, and study-room support.
+
+**Tech:** JavaScript | Chrome APIs | HTML | CSS | Productivity Systems
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV5ZDJpNWZ5OHRzY3B3OGw4MnBtYXNyNmRmeWkzZWIwN3l1aGM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Project GIF"/>
@@ -69,6 +70,10 @@ Processes mobile-captured OMR sheets, corrects distortions, and scores against p
   - Expertise in OCI networking & connectivity solutions
   - Hybrid and multi-cloud architecture design
   - Secure networking implementation and troubleshooting
+
+- **Artificial Intelligence Primer – Infosys Springboard**
+  -Covered AI fundamentals and machine learning concepts
+  -Practical exposure to AI applications and data-driven problem solving
 
 ## 🤝 Connect with Me
 
